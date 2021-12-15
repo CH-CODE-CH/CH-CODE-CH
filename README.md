@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CH-CODE-CH
-- 👀 I’m interested in Smart Home. Minecraft,Phython,Drones
+- 👀 I’m interested in Smart Home, Minecraft, Phython, Drones
 - 🌱 I’m currently learning C#,Python
 - 💞️ I’m looking to collaborate on ?
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CH-CODE-CH
-- 👀 I’m interested in Smart Home, Minecraft, Phython, Drones
-- 🌱 I’m currently learning C#,Python
+- 👀 I’m interested in Smart Home, Minecraft, Phython, Drones, Discord Bots, Websites
+- 🌱 I’m currently learning C#,Python,HTML,JavaScript
 
 
 <!---
